@@ -1,6 +1,6 @@
-# daily vocabulary
+# daily vocabulary＜/br＞
 
-6.23   sensible                 机智的/n
+6.23   sensible                 机智的＜/br＞
 6.24   capricious               任性的
 6.25   entanglement             羁绊
 6.26   unparalledled            无与伦比的
