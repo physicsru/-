@@ -8,3 +8,4 @@
 6.28   elegant                  高雅的\
 6.29   quantitative             定量的                qualitative                定性的\
 6.30   miraculous               神奇的                supernatural               神奇的\
+7.01
