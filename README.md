@@ -7,3 +7,4 @@
 6.27   providence               天意                  coincidence                巧合\
 6.28   elegant                  高雅的\
 6.29   quantitative             定量的                qualitative                定性的\
+6.30
