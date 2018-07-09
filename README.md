@@ -15,4 +15,6 @@
 7.05   inspiration              灵感                  brunch                    早午餐\
 7.06   comprehensive            综合的                integral                  完整的\
 7.07   appealing                有吸引力的            charming                   迷人的                 fascinating    使人神魂颠倒\
-7.08
+7.08   bashful                                       pigeonhearted                                     shy            害羞的\
+7.09   internship               实习                 decoration                 装饰                   ornament        装饰\
+7.10
