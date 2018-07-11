@@ -16,5 +16,7 @@
 7.06   comprehensive            综合的                integral                  完整的\
 7.07   appealing                有吸引力的            charming                   迷人的                 fascinating    使人神魂颠倒\
 7.08   bashful                                       pigeonhearted                                     shy            害羞的\
-7.09   internship               实习                 decoration                 装饰                   ornament        装饰\
-7.10
+7.09   internship               实习                  decoration                 装饰                   ornament        装饰\
+7.10   seraph                   六翼天使              seraphic                   纯洁的，美丽的，天使一般的\
+7.11   dazzled                  令人眼花缭乱的         effulgent                 闪闪发亮的              glittering     闪闪发亮的\
+7.12
