@@ -19,4 +19,7 @@
 7.09   internship               实习                  decoration                 装饰                   ornament        装饰\
 7.10   seraph                   六翼天使              seraphic                   纯洁的，美丽的，天使一般的\
 7.11   dazzled                  令人眼花缭乱的         effulgent                 闪闪发亮的              glittering     闪闪发亮的\
-7.12
+7.12   similar                                       semblable                                         analogical     相似的\
+7.13   complementary            互补的                exclusive                 排斥的\
+7.14   aesthetic                美学                  principle                 原理                    axiom          公理，格言\
+7.15   metro                    地铁，大都市           encounter                 偶然遇见                foregather     偶然遇到
