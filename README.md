@@ -22,4 +22,6 @@
 7.12   similar                                       semblable                                         analogical     相似的\
 7.13   complementary            互补的                exclusive                 排斥的\
 7.14   aesthetic                美学                  principle                 原理                    axiom          公理，格言\
-7.15   metro                    地铁，大都市           encounter                 偶然遇见                foregather     偶然遇到
+7.15   metro                    地铁，大都市           encounter                 偶然遇见                foregather     偶然遇到\
+7.16   hokkien                  闽南语                cantonese                 广东话\
+7.17   intrigue   用诡计取得，激起..兴趣  复杂的事  私通 intriguing                迷人的                  intrigued      被迷住的
