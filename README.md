@@ -26,4 +26,5 @@
 7.16   hokkien                  闽南语                cantonese                 广东话\
 7.17   intrigue   用诡计取得，激起..兴趣  复杂的事  私通 intriguing                迷人的                  intrigued      被迷住的\
 7.18   irony                    反讽                  sacarcasm                 讽刺                    satire         讽刺文学\
-7.19   cultivated               有教养的，耕种的        tender                   温柔的，柔软的
+7.19   cultivated               有教养的，耕种的        tender                   温柔的，柔软的\
+7.20   exquisite                精致的 优美的           majestic庄严地 宏伟的                             divine 神圣的 非凡的
