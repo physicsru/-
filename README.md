@@ -29,4 +29,9 @@
 7.19   cultivated               有教养的，耕种的        tender                   温柔的，柔软的\
 7.20   exquisite                精致的 优美的          majestic                  庄严地 宏伟的            divine        神圣的 非凡的\
 7.21   solidify                 固化                  purify                    净化\
-7.22   embarrassed              尴尬的                gumption                   进取心                  blissful      幸福的
+7.22   embarrassed              尴尬的                gumption                   进取心                  blissful      幸福的\
+7.23   mentality                心态                  vogue                      流行的                  prevailing    流行的\
+7.24   encourage                鼓励                  hearten                    激励\
+7.25   fret                     烦躁                  exhausted                  疲惫的      jaded 精疲力尽  effete 疲惫的\
+7.26   regeneration             重生              refresh     恢复精神           adore  爱慕        worship  崇拜 拜神\
+7.27   synchronous              同步的             virtuous   贤惠的                                     imply          暗示
