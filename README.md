@@ -34,4 +34,13 @@
 7.24   encourage                鼓励                  hearten                    激励\
 7.25   fret                     烦躁                  exhausted                  疲惫的      jaded 精疲力尽  effete 疲惫的\
 7.26   regeneration             重生              refresh     恢复精神           adore  爱慕        worship  崇拜 拜神\
-7.27   synchronous              同步的             virtuous   贤惠的                                     imply          暗示
+7.27   synchronous              同步的             virtuous   贤惠的                                     imply          暗示\
+7.28   praise                   赞扬                commend   称赞                                       applause      喝彩\
+7.29   disguise                 假装                beckoning  令人心动的                                 probe         探索\
+7.30   auspicious               吉利的              desirable  合意得人或事物                             commie      共产党的 共产党员\
+7.31   fragmentary              不完全的  断断续续的 compromise 妥协                                      endearing   讨人喜欢的 可爱的\
+8.01   tactic                   策略                ruse       诡计                                      strategy    战略\
+8.02   bump                     撞                  pat        轻拍                                      slap        猛烈地 掴\
+8.03   assimilate               吸收                elapse     时间流逝                                  smooth       光滑的\
+8.04   tremendous               巨大的              grandiose  宏伟的                                    palatial     宫殿式的 宏伟的\
+8.05   priority                 优先级              hierarchy  层级 等级制度                              consensus   一致,舆论,合意
