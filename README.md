@@ -43,18 +43,18 @@
 8.02   bump                     撞                  pat        轻拍                                      slap        猛烈地 掴\
 8.03   assimilate               吸收                elapse     时间流逝                                  smooth       光滑的\
 8.04   tremendous               巨大的              grandiose  宏伟的                                    palatial     宫殿式的 宏伟的\
-8.05   priority                 优先级              hierarchy  层级 等级制度                              consensus   一致,舆论,合意
-8.06   entity                   实体，本质          stellar     星星的 一流的                             reimburse   报销 赔偿
-8.07   dimple        使起涟漪，使现酒窝              fossette    酒窝                                     jaw         下巴
-8.08   gorgeous      华丽的，极好的                  spotless    无瑕的，无可挑剔的                        considerate  体贴的，考虑
-8.09   trivial       不重要的，琐碎的                insipid     清淡的，无趣的                            solitude    孤独，荒僻的地方
-8.10   mild          温和的，轻微的                  moderate    稳健的，温和的                            catalyze    催化，刺激
-8.11   implement     实施                           compensate  补偿                                     abduct      拐走，诱拐
-8.12   resonance     共鸣，共振                      harmonious  和谐的                                   concordant  协调的，一致的
-8.13   stretch       伸展，张开                      shrink      收缩              inflect 弯曲，改变   unbend 弄直，使松弛
-8.14   smear         涂                             inflate     膨胀                                     confucianist  儒家
-8.15   rational      理性的                          brutal      不讲理的，野蛮的                          exact       准确的
-8.16   galaxy        银河系                          illuminate  照亮，阐明                                vanish      消失
-8.17   rehearsal     排演                            nimble      敏捷的，聪明的                            agile       机敏的，活泼的
-8.18   elaborate     煞费苦心的，阐述                 profound    意义深远的                                intricate   复杂的，缠结的
-8.19   nobility      高贵                            eminent     杰出的                                    magnificent  华丽的    
+8.05   priority                 优先级              hierarchy  层级 等级制度                              consensus   一致,舆论,合意\
+8.06   entity                   实体，本质          stellar     星星的 一流的                             reimburse   报销 赔偿\
+8.07   dimple        使起涟漪，使现酒窝              fossette    酒窝                                     jaw         下巴\
+8.08   gorgeous      华丽的，极好的                  spotless    无瑕的，无可挑剔的                        considerate  体贴的，考虑\
+8.09   trivial       不重要的，琐碎的                insipid     清淡的，无趣的                            solitude    孤独，荒僻的地方\
+8.10   mild          温和的，轻微的                  moderate    稳健的，温和的                            catalyze    催化，刺激\
+8.11   implement     实施                           compensate  补偿                                     abduct      拐走，诱拐\
+8.12   resonance     共鸣，共振                      harmonious  和谐的                                   concordant  协调的，一致的\
+8.13   stretch       伸展，张开                      shrink      收缩              inflect 弯曲，改变   unbend 弄直，使松弛\
+8.14   smear         涂                             inflate     膨胀                                     confucianist  儒家\
+8.15   rational      理性的                          brutal      不讲理的，野蛮的                          exact       准确的\
+8.16   galaxy        银河系                          illuminate  照亮，阐明                                vanish      消失\
+8.17   rehearsal     排演                            nimble      敏捷的，聪明的                            agile       机敏的，活泼的\
+8.18   elaborate     煞费苦心的，阐述                 profound    意义深远的                                intricate   复杂的，缠结的\
+8.19   nobility      高贵                            eminent     杰出的                                    magnificent  华丽的\
