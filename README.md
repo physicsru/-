@@ -58,5 +58,5 @@
 8.17   rehearsal     排演                            nimble      敏捷的，聪明的                            agile       机敏的，活泼的\
 8.18   elaborate     煞费苦心的，阐述                 profound    意义深远的                                intricate   复杂的，缠结的\
 8.19   nobility      高贵                            eminent     杰出的                                    magnificent  华丽的\
-8.20   tiptop  最高点 第一流的         autarchy 独裁                dictator 独裁者                         revolt 反抗\  
+8.20   tiptop  最高点 第一流的         autarchy 独裁                dictator 独裁者                         revolt 反抗\
 8.21   lucid  透明的；易懂的                          opaque  不透明的；迟钝的                               giddy  头晕的\
