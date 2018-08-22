@@ -60,3 +60,5 @@
 8.19   nobility      高贵                            eminent     杰出的                                    magnificent  华丽的\
 8.20   tiptop  最高点 第一流的         autarchy 独裁                dictator 独裁者                         revolt 反抗\
 8.21   lucid  透明的；易懂的                          opaque  不透明的；迟钝的                               giddy  头晕的\
+8.22   beam 照射 堆满笑容                             consensus   一致 合意                                 gaze 凝视 注视\
+
