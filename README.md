@@ -63,3 +63,4 @@
 8.22   beam 照射 堆满笑容                             consensus   一致 合意                                 gaze 凝视 注视\
 8.23   triumph 胜利                                  prosperity 繁荣                                       rapport 密切关系额 和谐一致\
 8.24   pregnancy  怀孕; 意义深长                      wrinkle 皱纹                                          plication  褶皱
+8.25   aptitude  天资 适宜                           imperative 必要的，不可避免的                           brisk 敏锐的 活泼的
