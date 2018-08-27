@@ -64,4 +64,5 @@
 8.23   triumph 胜利                                  prosperity 繁荣                                       rapport 密切关系额 和谐一致\
 8.24   pregnancy  怀孕; 意义深长                      wrinkle 皱纹                                          plication  褶皱\
 8.25   aptitude  天资 适宜                           imperative 必要的，不可避免的                           brisk 敏锐的 活泼的\
-8.26   massage 揉 按摩                               thick 厚的 浓的 粗大的                               gracile 纤弱的，细长的；纤细优美的
+8.26   massage 揉 按摩                               thick 厚的 浓的 粗大的                           gracile 纤弱的，细长的；纤细优美的\
+8.27   huddle 缩成一团                               envisage  展望                                  embrace  拥抱
