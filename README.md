@@ -66,4 +66,5 @@
 8.25   aptitude  天资 适宜                           imperative 必要的，不可避免的                           brisk 敏锐的 活泼的\
 8.26   massage 揉 按摩                               thick 厚的 浓的 粗大的                           gracile 纤弱的，细长的；纤细优美的\
 8.27   huddle 缩成一团                               envisage  展望                                         embrace  拥抱\
-8.28   lotus 荷花                                    nephew  侄子 外甥                                      renaissance 文艺复兴
+8.28   lotus 荷花                                    nephew  侄子 外甥                                      renaissance 文艺复兴\
+8.29   phoenix 凤凰                                  Nirvana 涅槃                                           transfer 迁移
