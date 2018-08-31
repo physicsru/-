@@ -68,4 +68,5 @@
 8.27   huddle 缩成一团                               envisage  展望                                         embrace  拥抱\
 8.28   lotus 荷花                                    nephew  侄子 外甥                                      renaissance 文艺复兴\
 8.29   phoenix 凤凰                                  Nirvana 涅槃                                           transfer 迁移\
-8.30   courageous 勇敢的                             roast 吐槽 烘烤                                        snacks 零食 斗嘴  
+8.30   courageous 勇敢的                             roast 吐槽 烘烤                                        snacks 零食 斗嘴\
+8.31   sample 样品                                   engagement 订婚                                        expurgate 删除
