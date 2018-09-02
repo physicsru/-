@@ -70,4 +70,5 @@
 8.29   phoenix 凤凰                                  Nirvana 涅槃                                           transfer 迁移\
 8.30   courageous 勇敢的                             roast 吐槽 烘烤                                        snacks 零食 斗嘴\
 8.31   sample 样品                                   engagement 订婚                fiancee 未婚妻                  expurgate 删除\
-9.01   quiver 震动                                   tummy 肚子                                             moth 蛾
+9.01   quiver 震动                                   tummy 肚子                                             moth 蛾\
+9.02   strive 奋斗                                   endeavor  努力                                         diligent 勤勉的
