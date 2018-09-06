@@ -33,7 +33,7 @@
 7.23   mentality                心态                  vogue                      流行的                  prevailing    流行的\
 7.24   encourage                鼓励                  hearten                    激励\
 7.25   fret                     烦躁                  exhausted                  疲惫的      jaded 精疲力尽  effete 疲惫的\
-6   regeneration             重生              refresh     恢复精神           adore  爱慕        worship  崇拜 拜神\
+7.26   regeneration             重生              refresh     恢复精神           adore  爱慕        worship  崇拜 拜神\
 7.27   synchronous              同步的             virtuous   贤惠的                                     imply          暗示\
 7.28   praise                   赞扬                commend   称赞                                       applause      喝彩\
 7.29   disguise                 假装                beckoning  令人心动的                                 probe         探索\
@@ -73,4 +73,6 @@
 9.01   quiver 震动                                   tummy 肚子                                             moth 蛾\
 9.02   strive 奋斗                                   endeavor  努力                                         diligent 勤勉的\
 9.03   irreplaceable 不可替代的                    tentative  试验性的                                 steadfast 坚定的\
-9.04   oscillation  振荡                          vibrate  振动                                        quaver  颤抖 
+9.04   oscillation  振荡                          vibrate  振动                                        quaver  颤抖\ 
+9.05   intensive  加强的                          fortify  加强                                        courier  导游 送快信的人\
+9.06   ubiquitous 无处不在的                       pervasive  普遍的                                    contract  契约 合同
