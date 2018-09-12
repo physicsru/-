@@ -77,3 +77,8 @@
 9.05   intensive  加强的                          fortify  加强                                        courier  导游 送快信的人\
 9.06   ubiquitous 无处不在的                       pervasive  普遍的                                    contract  契约 合同\
 9.07   repulse  拒绝 击退  resolve 决心要做..  使…分解 epidemic 流行的\
+9.08   imperative 重要的 hooliganism 流氓主义 soft 软的\
+9.09   oblivion  遗忘  fond  喜欢   ritual 仪式，惯例\
+9.10   relish  风味 爱好  potent 有效的 强有力的  warrant 辩解 正当理由\
+9.11   dwell  居住，细想某事  armour 盔甲  immortal 不朽的\
+9.12   commend 称赞 推荐  elicit 引起 引出 indignant  义愤的
