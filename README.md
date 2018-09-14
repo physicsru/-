@@ -82,4 +82,5 @@
 9.10   relish  风味 爱好  potent 有效的 强有力的  warrant 辩解 正当理由\
 9.11   dwell  居住，细想某事  armour 盔甲  immortal 不朽的\
 9.12   commend 称赞 推荐  elicit 引起 引出 indignant  义愤的\
-9.13   judicious 明智而谨慎的 hallucinate 使产生幻觉 concatenate 连接 使连锁
+9.13   judicious 明智而谨慎的 hallucinate 使产生幻觉 concatenate 连接 使连锁\
+9.14   escort 护卫队 陪同    tranquil   安静的 平静的     serene  平静的 安详的
