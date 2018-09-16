@@ -84,4 +84,5 @@
 9.12   commend 称赞 推荐  elicit 引起 引出 indignant  义愤的\
 9.13   judicious 明智而谨慎的 hallucinate 使产生幻觉 concatenate 连接 使连锁\
 9.14   escort 护卫队 陪同    tranquil   安静的 平静的     serene  平静的 安详的\
-9.15   compose 组成；作曲；排字  heritage 遗产   grace 恩惠 魅力 优雅
+9.15   compose 组成；作曲；排字  heritage 遗产   grace 恩惠 魅力 优雅\
+9.16   aquarium 水族馆   unrivalled 无与伦比的 noteworthy 显著的
