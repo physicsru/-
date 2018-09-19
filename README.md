@@ -73,7 +73,7 @@
 9.01   quiver 震动                                   tummy 肚子                                             moth 蛾\
 9.02   strive 奋斗                                   endeavor  努力                                         diligent 勤勉的\
 9.03   irreplaceable 不可替代的                    tentative  试验性的                                 steadfast 坚定的\
-9.04   oscillation  振荡                          vibrate  振动                                        quaver  颤抖\ 
+9.04   oscillation  振荡                          vibrate  振动                                        quaver  颤抖\
 9.05   intensive  加强的                          fortify  加强                                        courier  导游 送快信的人\
 9.06   ubiquitous 无处不在的                       pervasive  普遍的                                    contract  契约 合同\
 9.07   repulse  拒绝 击退  resolve 决心要做..  使…分解 epidemic 流行的\
