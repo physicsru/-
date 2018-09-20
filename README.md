@@ -88,4 +88,5 @@
 9.16   aquarium 水族馆   unrivalled 无与伦比的 noteworthy 显著的\
 9.17   superb 极好的  admirable 令人称赞的 preeminent 出类拔萃的\
 9.18   finicky 过分繁琐的  conspicuous 显而易见的 barrier 障碍物\
-9.19   gut 本质的，本能的   instinctive  天生的 直觉的  intuitive 直觉的
+9.19   gut 本质的，本能的   instinctive  天生的 直觉的  intuitive 直觉的\
+9.20   deprecated 弃用   downside 消极面，缺点  peculiar 特殊的；独特的
