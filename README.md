@@ -91,5 +91,6 @@
 9.19   gut 本质的，本能的   instinctive  天生的 直觉的  intuitive 直觉的\
 9.20   deprecated 弃用   downside 消极面，缺点  peculiar 特殊的；独特的\
 9.21   courtesy 好意；恩惠 civilized 文明的 有礼貌的   enlighten 启发 教导\
-9.22   shady 荫凉的 可以的  aesthetic 美学的 艺术的  breed 养育 产生\
-9.23   gamble 打赌 slack 松弛的；疏忽的  vi. 熔化，溶解
+9.22   shady 荫凉的 可以的  arithmetic 算术  breed 养育 产生\\
+9.23   gamble 打赌 slack 松弛的；疏忽的  vi. 熔化，溶解\
+9.24   ginormous 极大的 nomadic 游牧的，流浪的  etiquette 礼节   
