@@ -94,4 +94,5 @@
 9.22   shady 荫凉的 可以的  arithmetic 算术  breed 养育 产生\
 9.23   gamble 打赌 slack 松弛的；疏忽的  vi. 熔化，溶解\
 9.24   ginormous 极大的 nomadic 游牧的，流浪的  etiquette 礼节\
-9.25   crucial 重要的  fatal 命中注定的 重大的 vital 至关重要的
+9.25   crucial 重要的  fatal 命中注定的 重大的 vital 至关重要的\
+9.26   amplify 放大 增强  benign 良好的 仁慈的 inflation 膨胀
