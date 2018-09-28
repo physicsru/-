@@ -96,4 +96,5 @@
 9.24   ginormous 极大的 nomadic 游牧的，流浪的  etiquette 礼节\
 9.25   crucial 重要的  fatal 命中注定的 重大的 vital 至关重要的\
 9.26   amplify 放大 增强  benign 良好的 仁慈的 inflation 膨胀\
-9.27   console 安慰 控制台 conspiracy 阴谋 共谋  consume 消耗 
+9.27   console 安慰 控制台 conspiracy 阴谋 共谋  consume 消耗\
+9.28   meditate 沉思 冥想 deprive 剥夺 derive 取得 追溯..起源
