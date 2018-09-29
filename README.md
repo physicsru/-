@@ -97,4 +97,5 @@
 9.25   crucial 重要的  fatal 命中注定的 重大的 vital 至关重要的\
 9.26   amplify 放大 增强  benign 良好的 仁慈的 inflation 膨胀\
 9.27   console 安慰 控制台 conspiracy 阴谋 共谋  consume 消耗\
-9.28   meditate 沉思 冥想 deprive 剥夺 derive 取得 追溯..起源
+9.28   meditate 沉思 冥想 deprive 剥夺 derive 取得 追溯..起源\
+9.29   leisure 闲暇  bloom 开花 blush 害羞 脸红
