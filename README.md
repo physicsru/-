@@ -100,4 +100,7 @@
 9.28   meditate 沉思 冥想 deprive 剥夺 derive 取得 追溯..起源\
 9.29   leisure 闲暇  bloom 开花 blush 害羞 脸红\
 9.30   shatter 打碎，使散开  shave 剃 刮  shear 修建 剥夺\
-10.1   resolute 坚决的 果断的  realm 王国 领域  reap 收割 收获
+10.1   resolute 坚决的 果断的  realm 王国 领域  reap 收割 收获\
+10.2   proceed   开始；继续进行  torment 痛苦 苦恼   wholly   完全地 一概\
+10.3   appraisal 评价 鉴定    compass 指南针   conceal隐藏\
+10.4   diplomatic   外交的   instantaneous  瞬间发生的   spike 阻止；以大钉钉牢
