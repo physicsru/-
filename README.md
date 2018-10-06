@@ -103,4 +103,6 @@
 10.1   resolute 坚决的 果断的  realm 王国 领域  reap 收割 收获\
 10.2   proceed   开始；继续进行  torment 痛苦 苦恼   wholly   完全地 一概\
 10.3   appraisal 评价 鉴定    compass 指南针   conceal隐藏\
-10.4   diplomatic   外交的   instantaneous  瞬间发生的   spike 阻止；以大钉钉牢
+10.4   diplomatic   外交的   instantaneous  瞬间发生的   spike 阻止；以大钉钉牢\
+10.5   asset 次产 有利条件   infrastructure 基础设施  bequest 遗赠\
+10.6   crawl  爬行 蠕动   cradle  摇篮 发源地   stumble 跌 绊 蹒跚\
