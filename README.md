@@ -106,3 +106,4 @@
 10.4   diplomatic   外交的   instantaneous  瞬间发生的   spike 阻止；以大钉钉牢\
 10.5   asset 次产 有利条件   infrastructure 基础设施  bequest 遗赠\
 10.6   crawl  爬行 蠕动   cradle  摇篮 发源地   stumble 跌 绊 蹒跚\
+10.7   verdict 判断 裁定  descend 下来 下降  flee 逃避 消失
