@@ -107,4 +107,7 @@
 10.5   asset 次产 有利条件   infrastructure 基础设施  bequest 遗赠\
 10.6   crawl  爬行 蠕动   cradle  摇篮 发源地   stumble 跌 绊 蹒跚\
 10.7   verdict 判断 裁定  descend 下来 下降  flee 逃避 消失\
-10.8   bureaucracy 官僚主义  resuscitate 使复苏 复兴   classical  古典的
+10.8   bureaucracy 官僚主义  resuscitate 使复苏 复兴   classical  古典的\
+10.9   hegemony 霸权  mire 陷于泥坑,陷入困境  buffet 自助餐
+\
+10.9   hegemony 霸权  mire 陷于泥坑,陷入困境  buffet 自助餐
