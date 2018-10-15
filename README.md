@@ -110,5 +110,6 @@
 10.8   bureaucracy 官僚主义  resuscitate 使复苏 复兴   classical  古典的\
 10.9   hegemony 霸权  mire 陷于泥坑,陷入困境  buffet 自助餐\
 10.10  endow 资助 endurance 忍耐 吃酒  grease 油脂 使便于通过\
-10.11  whet  磨 激起兴趣 ameliorate  改善，改进;减轻（痛苦等）halt 暂停 犹豫
-10.12  tautology  同义反复  fraudulent 欺骗性的 recap 翻新胎面；扼要重述
+10.11  whet  磨 激起兴趣 ameliorate  改善，改进;减轻（痛苦等）halt 暂停 犹豫\
+10.14  tautology  同义反复  fraudulent 欺骗性的 recap 翻新胎面；扼要重述\
+10.15  weary 疲倦的  charitable 慷慨的  interpret 理解
