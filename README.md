@@ -113,4 +113,5 @@
 10.11  whet  磨 激起兴趣 ameliorate  改善，改进;减轻（痛苦等）halt 暂停 犹豫\
 10.12  panel 仪表盘  ameliorate 改善，改进，减轻 halt 暂停，犹豫\
 10.14  tautology  同义反复  fraudulent 欺骗性的 recap 翻新胎面；扼要重述\
-10.15  weary 疲倦的  charitable 慷慨的  interpret 理解
+10.15  weary 疲倦的  charitable 慷慨的  interpret 理解\
+10.16  mortal 致命的 凡人的  mosaic 马赛克 镶嵌体  moss 苔藓 地衣
