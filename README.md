@@ -114,4 +114,8 @@
 10.12  panel 仪表盘  ameliorate 改善，改进，减轻 halt 暂停，犹豫\
 10.14  tautology  同义反复  fraudulent 欺骗性的 recap 翻新胎面；扼要重述\
 10.15  weary 疲倦的  charitable 慷慨的  interpret 理解\
-10.16  mortal 致命的 凡人的  mosaic 马赛克 镶嵌体  moss 苔藓 地衣
+10.16  mortal 致命的 凡人的  mosaic 马赛克 镶嵌体  moss 苔藓 地衣\
+10.17  lend 给予 提供  lest 唯恐 面的 levy 征收 征用\
+10.18  lever  杠杆  poke  戳 刺 捅  flatter 奉承 使高兴\
+10.19  devil 邪恶的  dew 露水  flap 慌张  拍打\
+10.20  slit  切开 裂缝  slope 倾斜 有坡度  slot  插槽 安置
