@@ -118,4 +118,5 @@
 10.17  lend 给予 提供  lest 唯恐 面的 levy 征收 征用\
 10.18  lever  杠杆  poke  戳 刺 捅  flatter 奉承 使高兴\
 10.19  devil 邪恶的  dew 露水  flap 慌张  拍打\
-10.20  slit  切开 裂缝  slope 倾斜 有坡度  slot  插槽 安置
+10.20  slit  切开 裂缝  slope 倾斜 有坡度  slot  插槽 安置\
+10.21  deteriorate  恶化 退化   device 装置 设备 devise 设计 发明
