@@ -119,4 +119,6 @@
 10.18  lever  杠杆  poke  戳 刺 捅  flatter 奉承 使高兴\
 10.19  devil 邪恶的  dew 露水  flap 慌张  拍打\
 10.20  slit  切开 裂缝  slope 倾斜 有坡度  slot  插槽 安置\
-10.21  deteriorate  恶化 退化   device 装置 设备 devise 设计 发明
+10.21  deteriorate  恶化 退化   device 装置 设备 devise 设计 发明\
+10.22  prick 刺 扎  priest 教士 神父 sting 刺 刺激性\
+10.23  prestige 威望  retention 保持 记性   stale 不新鲜的 过时的
