@@ -123,5 +123,5 @@
 10.22  prick 刺 扎  priest 教士 神父 sting 刺 刺激性\
 10.23  prestige 威望  retention 保持 记性   stale 不新鲜的 过时的\
 10.24  drain 渐渐耗尽，排水沟  exile 流放 充军  mortal 凡人的\
-10.25  foster 培育 howl 嚎叫  moss 苔藓 地衣\
+10.25  foster 培育 howl 嚎叫  choppy 波涛汹涌的\
 10.26  breeze 微风  bribe 贿赂  coupon 优惠券
