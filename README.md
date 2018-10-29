@@ -124,4 +124,7 @@
 10.23  prestige 威望  retention 保持 记性   stale 不新鲜的 过时的\
 10.24  drain 渐渐耗尽，排水沟  exile 流放 充军  mortal 凡人的\
 10.25  foster 培育 howl 嚎叫  choppy 波涛汹涌的\
-10.26  breeze 微风  bribe 贿赂  coupon 优惠券
+10.26  breeze 微风  bribe 贿赂  coupon 优惠券\
+10.27  traitor 叛徒  artery 动脉 要道 articulate 发音清晰的 善于表达的\
+10.28  stake 树桩 赌注 利害关系 staple 订书钉 主要的  tram 有轨电车\
+10.29  retrospect 回顾 追溯  revelation 显示 揭露 revolt 反抗 违抗
