@@ -128,5 +128,5 @@
 10.27  traitor 叛徒  artery 动脉 要道 articulate 发音清晰的 善于表达的\
 10.28  stake 树桩 赌注 利害关系 staple 订书钉 主要的  tram 有轨电车\
 10.29  retrospect 回顾 追溯  revelation 显示 揭露 revolt 反抗 违抗\
-10.30  hiject 劫持  sole 唯一的 solemn  庄严的\
+10.30  hijeck 劫持  sole 唯一的 solemn  庄严的\
 10.31  solid 固体的 实心的  sober  冷静的 未醉的  merchant  商人 零售商
