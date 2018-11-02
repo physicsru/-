@@ -129,4 +129,6 @@
 10.28  stake 树桩 赌注 利害关系 staple 订书钉 主要的  tram 有轨电车\
 10.29  retrospect 回顾 追溯  revelation 显示 揭露 revolt 反抗 违抗\
 10.30  hijeck 劫持  sole 唯一的 solemn  庄严的\
-10.31  solid 固体的 实心的  sober  冷静的 未醉的  merchant  商人 零售商
+10.31  solid 固体的 实心的  sober  冷静的 未醉的  merchant  商人 零售商\
+11.1   cure 治愈 消除  curl 卷曲  currency 通货 货币\
+11.2   irrigate 灌溉 irritate 激怒  isle  小岛
