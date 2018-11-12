@@ -130,5 +130,15 @@
 10.29  retrospect 回顾 追溯  revelation 显示 揭露 revolt 反抗 违抗\
 10.30  hijeck 劫持  sole 唯一的 solemn  庄严的\
 10.31  solid 固体的 实心的  sober  冷静的 未醉的  merchant  商人 零售商\
-11.1   cure 治愈 消除  curl 卷曲  currency 通货 货币\
-11.2   irrigate 灌溉 irritate 激怒  isle  小岛
+11.01   cure 治愈 消除  curl 卷曲  currency 通货 货币\
+11.02   irrigate 灌溉 irritate 激怒  isle  小岛\
+11.03   gallop 飞跑，飞速发展  fabricate 编造  decent 体面的，正派的\
+11.04   handicap 障碍，不利条件  shield 保护 掩盖  shift 转移，替换\
+11.05   shoulder 肩膀，承担  shuttle  传送往返  往返汽车  ideal 理想的，完美的\
+11.06   identical 相同的，同一的  idle 闲散的，无用的  ignite 点燃，激起\
+11.07   jealous 妒忌的  knit 编织，使紧密结合  lag 落后，衰退\
+11.08   lateral  侧面的，旁边的  latter 后一半的，后者  launch 发射，发动\
+11.09   magnitude 巨大，重要性   maintain 维持，保养  malignant 恶毒的，致命的\
+11.10   therapy 疗法，理疗  obligation 义务，责任 obscure 使变暗，费解的\
+11.11   obsession  迷住，牵挂   obsolete 废弃的，过时的  obtain  获得，得到\
+11.12   pace 步速，步伐  panorama  全景，概论   savage 野蛮的，未开化的
