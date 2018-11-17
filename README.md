@@ -141,4 +141,10 @@
 11.09   magnitude 巨大，重要性   maintain 维持，保养  malignant 恶毒的，致命的\
 11.10   therapy 疗法，理疗  obligation 义务，责任 obscure 使变暗，费解的\
 11.11   obsession  迷住，牵挂   obsolete 废弃的，过时的  obtain  获得，得到\
-11.12   pace 步速，步伐  panorama  全景，概论   savage 野蛮的，未开化的
+11.12   pace 步速，步伐  panorama  全景，概论   savage 野蛮的，未开化的\
+11.13   puff 一口 喘气  pulse 脉搏 脉冲 punch  严守时的\
+11.14   puppet  木偶，傀儡    purse  钱包   route 路线 路程\
+11.15   ruthless  无情的，残忍的  trolley 手推车，小车   troop 部队，军队\
+11.16   tropic  回归线  tropical  热带的  trunk  大衣箱\
+11.17   tuck  卷起 夹入 tug  用力拖  猛拉  tuition 学费\
+11.18   tumor 瘤    tunnel  隧洞，山洞   turbine  汽轮机，涡轮机
