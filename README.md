@@ -147,4 +147,16 @@
 11.15   ruthless  无情的，残忍的  trolley 手推车，小车   troop 部队，军队\
 11.16   tropic  回归线  tropical  热带的  trunk  大衣箱\
 11.17   tuck  卷起 夹入 tug  用力拖  猛拉  tuition 学费\
-11.18   tumor 瘤    tunnel  隧洞，山洞   turbine  汽轮机，涡轮机
+11.18   tumor 瘤    tunnel  隧洞，山洞   turbine  汽轮机，涡轮机\
+11.19   advisable 可取的  carve  雕刻  ceiling  天花板，最高限度\
+11.20   advent 出现 到来 adhere 粘附 坚持  adolescent  青少年的\
+11.21   cereal 谷类的   deceit  欺骗  decimal  十进位的\
+11.22   ego 自我，自尊，字符    decisive 决定性的 果断的  fasten 牢固的\
+11.23   fault  过失，错误  gigantic 巨大的   giggle  咯咯笑，持续地笑\
+11.24   glance 一撇，扫视  glare  怒视 瞪眼 耀眼的光  jolly  欢乐的\
+11.25   judicial 法庭的，司法的，公正的  kidney 肾脏  latent 潜在的 隐伏的 不易察觉的\
+11.26   laundry 洗衣房   lawsuit  官司   peep  偷看 窥视\
+11.27   peninsula  半岛   pension 养老金 抚恤金   permeate 渗透 充满 弥漫\
+11.28   rack 支架，剧烈痛苦  rag 破布 碎布  raid  袭击 搜查\
+11.29   senate  参议院 上院    sentiment 情感 情绪 意见  sew 缝纫\
+
