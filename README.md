@@ -159,4 +159,25 @@
 11.27   peninsula  半岛   pension 养老金 抚恤金   permeate 渗透 充满 弥漫\
 11.28   rack 支架，剧烈痛苦  rag 破布 碎布  raid  袭击 搜查\
 11.29   senate  参议院 上院    sentiment 情感 情绪 意见  sew 缝纫\
+11.30   accustom  使...习惯    alienate  使...疏远,离间,让与  ape 猿猴\
+12.01   archaeology 考古学，古迹，文物  botany 植物学，植物  buzz 嗡嗡声 发出嗡嗡声,充满,匆忙 飞进,使嗡嗡叫\
+12.02   censorship 检查制度 comet 彗星 contagious 传染性的,会蔓延的,会传播的\
+12.03   culprit 犯人,罪犯,刑事被告,肇事者,罪魁祸首  daunt 恐吓 debut 初次登场\
+12.04   defer 延期, 缓召, 把...委托给他人 deplore 悲叹，谴责，对…深感遗憾  diabetes 糖尿病\
+12.05   dioxide 二氧化碳  embryo  胚胎,萌芽  ethic道德规范, 伦理\
+12.06   fiscal 财政的,国库的  hygiene 卫生 inaugurate 举行就职典礼,举行仪式\
+12.07   ivory 象牙,乳白色 象牙制的,乳白色的  marathon 马拉松, 耐力的考验  memorandum 备忘录\
+12.08   module 模块 组件  neutron 中子   nostalgic 乡愁的, 怀旧的\
+12.09   obesity 肥胖, 肥大  overhaul 分解检查,翻修,精细检查； 超车、赶上 portfolio 文件夹，作品集，证券投资组合\
+12.10   recession 后退,凹入的地方,不景气  redeem 赎回, 挽回, 履行 rehearse 预演, 排演, 预先演习 参加彩排\
+12.11   salient 突出的,显著的 突出部分 scenario 情节梗概, 剧本 snobbish 势利的\
+12.12   stagnant 不流动的, 不景气的  statistics 统计  taboo 禁忌,禁制,禁止\
+12.13   toil 辛苦, 苦工, 网, 罗网, 圈套 transit 经过,运输  turmoil 骚动, 混乱\
+12.14   vaccine 疫苗 plaintiff 原告 defenant 被告\
+12.15   rake 耙子, 集赌金工具, 向船尾的倾斜 halmet 头盔, 遮阳帽, 盔甲 retire 退休,退职\
+12.16   drama 剧本,戏剧,戏剧性情节,刺激 curriculum 课程，全部课程 quartz 石英\
+12.17   grease 兽脂,油脂  warface 战争,冲突 electron 电子\
+12.18   distribute 分配,散布  sleeve 袖子,套管  clinic 诊所,门诊部,科室\
+12.19   inclusive 包括的 offend 犯罪,冒犯  hardware 硬件\
+12.20   torment 苦痛, 拷问  dedicate 献出,提献辞,致力于 tide  潮,趋势,潮流\
 
